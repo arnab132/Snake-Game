@@ -15,3 +15,5 @@ To capture keyboard input, we are going to use Tkinter built-in binding function
 Requirements:
 1. Tkinter (Built-In) 
 2. Python
+
+Run the play.py file and Play the game and challenge others by scoring highest.
