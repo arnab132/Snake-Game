@@ -1,4 +1,4 @@
-# SnakeGame using Tkinter
+# Simple SnakeGame using Tkinter
 
 Feeling nostalgic for retro games? 
 
